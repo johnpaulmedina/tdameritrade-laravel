@@ -9,7 +9,7 @@
         "email": "mackensiealvarez@gmail.com"
     }],
     "require": {
-        "guzzlehttp/guzzle": "^7.0.1",
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "autoload": {
         "psr-4": {
